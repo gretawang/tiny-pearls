@@ -1,7 +1,20 @@
-*.class
 *.iml
-# Package Files #
-*.jar
-*.war
-*.ear
+*.ipr
+*.ids
+*.iws
 .idea
+*.log
+buildNumber.properties
+*/target/
+*/*/target/
+/sh/
+/esb/*
+/document
+*/null
+*.DS_Store
+*.settings
+*.project
+*.classpath
+*.db
+*.tmp
+.flattened-pom.xml
