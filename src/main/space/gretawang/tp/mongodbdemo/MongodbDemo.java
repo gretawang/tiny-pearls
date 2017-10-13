@@ -1,4 +1,4 @@
-package main.space.gretawang.ty.mongodbdemo;
+package main.space.gretawang.tp.mongodbdemo;
 
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;

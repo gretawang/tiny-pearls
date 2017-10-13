@@ -1,6 +1,6 @@
-package main.space.gretawang.ty.mybatisdemo.mappers;
+package main.space.gretawang.tp.mybatisdemo.mappers;
 
-import main.space.gretawang.ty.mybatisdemo.domain.User;
+import main.space.gretawang.tp.mybatisdemo.domain.User;
 
 import java.util.List;
 

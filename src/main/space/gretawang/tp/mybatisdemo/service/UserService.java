@@ -1,7 +1,7 @@
-package main.space.gretawang.ty.mybatisdemo.service;
+package main.space.gretawang.tp.mybatisdemo.service;
 
-import main.space.gretawang.ty.mybatisdemo.domain.User;
-import main.space.gretawang.ty.mybatisdemo.mappers.UserMapper;
+import main.space.gretawang.tp.mybatisdemo.domain.User;
+import main.space.gretawang.tp.mybatisdemo.mappers.UserMapper;
 import org.apache.ibatis.session.SqlSession;
 
 import java.util.List;
