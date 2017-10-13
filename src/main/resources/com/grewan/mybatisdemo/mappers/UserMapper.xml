@@ -2,9 +2,9 @@
 <!DOCTYPE mapper PUBLIC '-//mybatis.org//DTD Mapper 3.0//EN'
         'http://mybatis.org/dtd/mybatis-3-mapper.dtd'>
 
-<mapper namespace='com.grewan.mybatisdemo.mappers.UserMapper'>
+<mapper namespace='main.space.gretawang.ty.mybatisdemo.mappers.UserMapper'>
 
-    <select id='getUserById' parameterType='int' resultType='com.grewan.mybatisdemo.domain.User'>
+    <select id='getUserById' parameterType='int' resultType='main.space.gretawang.ty.mybatisdemo.domain.User'>
         SELECT
         user_id as userId,
         email_id as emailId ,

@@ -1,4 +1,4 @@
-package com.grewan.mybatisdemo.service;
+package main.space.gretawang.ty.mybatisdemo.service;
 
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSessionFactory;

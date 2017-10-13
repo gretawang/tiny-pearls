@@ -1,4 +1,4 @@
-package com.grewan.mybatisdemo.domain;
+package main.space.gretawang.ty.mybatisdemo.domain;
 
 /**
  * @author: grewan
