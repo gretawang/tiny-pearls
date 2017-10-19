@@ -1,6 +1,4 @@
-package main.space.gretawang.tp.threads2.chapter02.demo01;
-
-import java.util.concurrent.TimeUnit;
+package main.space.gretawang.tp.threads.java7concurrencycookbook.chapter02.demo01;
 
 public class Account {
     private double balance;

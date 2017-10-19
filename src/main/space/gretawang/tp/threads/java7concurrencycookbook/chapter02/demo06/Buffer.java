@@ -1,4 +1,4 @@
-package main.space.gretawang.tp.threads2.chapter02.demo06;
+package main.space.gretawang.tp.threads.java7concurrencycookbook.chapter02.demo06;
 
 import java.util.LinkedList;
 import java.util.concurrent.locks.Condition;

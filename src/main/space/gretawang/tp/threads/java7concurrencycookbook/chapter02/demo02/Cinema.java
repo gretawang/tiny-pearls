@@ -1,4 +1,4 @@
-package main.space.gretawang.tp.threads2.chapter02.demo02;
+package main.space.gretawang.tp.threads.java7concurrencycookbook.chapter02.demo02;
 
 public class Cinema {
     private long vacanciesCinema1;

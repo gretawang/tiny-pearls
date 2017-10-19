@@ -1,4 +1,4 @@
-package main.space.gretawang.tp.threads2.chapter02.demo01;
+package main.space.gretawang.tp.threads.java7concurrencycookbook.chapter02.demo01;
 
 public class Main {
     public static void main(String args[]) {

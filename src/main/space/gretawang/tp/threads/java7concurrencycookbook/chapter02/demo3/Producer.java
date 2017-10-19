@@ -1,4 +1,4 @@
-package main.space.gretawang.tp.threads2.chapter02.demo3;
+package main.space.gretawang.tp.threads.java7concurrencycookbook.chapter02.demo3;
 
 public class Producer implements Runnable {
     private EventStorage eventStorage;

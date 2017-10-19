@@ -1,4 +1,4 @@
-package main.space.gretawang.tp.threads2.chapter02.demo04;
+package main.space.gretawang.tp.threads.java7concurrencycookbook.chapter02.demo04;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;

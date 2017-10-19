@@ -1,4 +1,4 @@
-package main.space.gretawang.tp.threads2.chapter02.demo05;
+package main.space.gretawang.tp.threads.java7concurrencycookbook.chapter02.demo05;
 
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
