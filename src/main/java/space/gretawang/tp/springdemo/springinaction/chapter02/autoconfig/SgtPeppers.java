@@ -1,4 +1,4 @@
-package space.gretawang.tp.springdemo.springinaction.chapter02;
+package space.gretawang.tp.springdemo.springinaction.chapter02.autoconfig;
 
 import org.springframework.stereotype.Component;
 
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * 所有带@Component注解的类都会被创建成bean, @ComponentScan注解负责扫描
  */
 
-@Component
+@Component("lonelyHeart")
 public class SgtPeppers implements CompactDisc {
     private String title = "Lonely heart";
     private String artist = "The Beatles";
