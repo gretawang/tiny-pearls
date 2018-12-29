@@ -1,4 +1,4 @@
-package main.java.space.gretawang.tp.moviewords;
+package space.gretawang.tp.moviewords;
 
 public class WordStructure {
     private String word;

@@ -1,4 +1,4 @@
-package main.java.space.gretawang.tp.moviewords;
+package space.gretawang.tp.moviewords;
 
 import org.apache.commons.io.FileUtils;
 
@@ -9,7 +9,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
-import java.util.Map.Entry;
 
 
 
@@ -50,7 +49,7 @@ public class WordCount {
     public static void sort(Map<String,WordStructure> map){
         List<Map.Entry<String, WordStructure>> infoIds = new ArrayList<>(map.entrySet());
         infoIds.sort((o1, o2) -> (o2.getValue().getTotalCount() - o1.getValue().getTotalCount()));
-        for (Entry<String, WordStructure> id : infoIds) {
+        for (Map.Entry<String, WordStructure> id : infoIds) {
             System.out.println(id.getKey() + ":" + String.format("%s-%d-%d", id.getValue().getWord(), id.getValue().getTotalCount(), id.getValue().getWordFrequency()));
         }
     }
